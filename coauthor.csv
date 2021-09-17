@@ -1,0 +1,153 @@
+title,coauthor_id
+The role of logic for data and knowledge bases: a brief survey,1001
+How to look at deductive databases,1005
+An experiment with programming using pure negation,1003
+Mapping object-oriented concepts into relational concepts by meta-compilation in a logic programming environment,1004
+Mapping object-oriented concepts into relational concepts by meta-compilation in a logic programming environment,1005
+Rules for implementing very large knowledge base systems,1004
+A new approach to the maximum-flow problem,1007
+Erratum: an O (n log log n)-time algorithm for triangulating a simple polygon,1008
+A locally adaptive data compression scheme,1000
+Planar point location using persistent search trees,1001
+Hierarchical splatting: a progressive refinement algorithm for volume rendering,1002
+Real-time robot motion planning using rasterizing computer graphics hardware,1018
+A global illumination solution for general reflectance distributions,1018
+Interactive simulation in a multi-person virtual world,1016
+Faster algorithms for the shortest path problem,1017
+The Art Gallery theorem for polygons with holes,1017
+Design for interactive performance in a virtual laboratory,1005
+On simultaneous inner and outer approximation of shapes,1025
+Design and simulation of opera lighting and projection effects,1012
+Towards image realism with interactive update rates in complex virtual building environments,1022
+Relaxed heaps: an alternative to Fibonacci heaps with applications to parallel computation,1002
+Project GROPEHaptic displays for scientific visualization,1022
+No Silver Bullet Essence and Accidents of Software Engineering,1022
+Software Pivotal to Strategic Defense,1023
+Interactive Computer Graphics,1023
+Approximate motion planning and the complexity of the boundary of the union of simple geometric figures,1015
+Advanced Operating Systems,1028
+"Computers, complexity, and the Statue of Liberty restoration",1027
+An ACM response: the scope and directions of Computer Science,1029
+An ACM response: the scope and directions of Computer Science,1093
+A conversation with Steve Jobs,1027
+The evolution of parallel processing,1028
+How to share memory in a distributed system,1038
+A tradeoff between space and efficiency for routing tables,1040
+Checking the correctness of memories,1036
+Verification of interacting sequential circuits,1041
+Implicit representation of graphs,1076
+Non-interactive zero-knowledge and its applications,1043
+A fast parallel algorithm for the maximal independent set problem,1094
+A time-randomness tradeoff for oblivious routing,1040
+Concurrent dynamic logic,1040
+Verification of interacting sequential circuits,1040
+Sequential test generation at the register-transfer and logic levels,1041
+Non-interactive zero-knowledge and its applications,1043
+Reduced offsets for two-level multi-valued logic minimization,1046
+Verification of interacting sequential circuits,1043
+Proceedings of the 28th ACM/IEEE Design Automation Conference,1046
+Design management based on design traces,1046
+A heuristic algorithm for the fanout problem,1049
+Computer architecture issues in circuit simulation,1049
+An evaluation of tagging,1052
+Amortized efficiency of list update and paging rules,1007
+Data replicas in distributed information services,1052
+A generalized birthday attack,1053
+How to break Okamoto's cryptosystem by reducing lattice bases,1053
+A practical zero-knowledge protocol fitted to security microprocessor minimizing both transmission and memory,1000
+Efficient identification schemes using two prover interactive proofs,1068
+The G+/GraphLog Visual Query System,1059
+Low complexity aggregation in GraphLog and Datalog,1057
+Answering queries on embedded-complete database schemes,1003
+Complexity and parallel processing: an interview with Richard Karp,1062
+DOODLE: a visual language for object-oriented databases,1061
+A randomized parallel branch-and-bound procedure,1063
+On better heuristic for euclidean Steiner minimum trees (extended abstract),1063
+Asymptotically optimal PRAM emulation on faulty hypercubes (extended abstract),1056
+Completeness theorems for non-cryptographic fault-tolerant distributed computation,1068
+A graphical query language supporting recursion,1061
+Computing with faulty arrays,1064
+New paradigms for digital signatures and message authentication based on non-interactive zero knowledge proofs,1071
+Multi-prover interactive proofs: how to remove intractability assumptions,1056
+Multiparty computation with faulty majority,1072
+A technique for upper bounding the spectral norm with applications to learning,1071
+Multiparty protocols tolerating half faulty processors,1072
+Efficient identification schemes using two prover interactive proofs,1068
+Languages that are easier than their proofs,1075
+When do extra majority gates help?,1075
+Bit commitment using pseudo-randomness (extended abstract),1076
+Storing and searching a multikey table,1076
+Amortized communication complexity (Preliminary version),1076
+Randomized mutual exclusion algorithms revisited,1080
+"Efficient dispersal of information for security, load balancing, and fault tolerance",1080
+Secret sharing over infinite domains (extended abstract),1079
+On the approximation of maximum satisfiability,1082
+A polynomial algorithm for the min-cut linear arrangement of trees,1082
+Design implications of a task-driven approach to unstructured cognitive tasks in office work,1084
+Firm size and the information technology investment intensity of life insurers,1084
+A Fast and Flexible Thinning Algorithm,1087
+A comment on “a fast parallel algorithm for thinning digital patterns,1086
+Andrew: a distributed personal computing environment,1089
+Parallel Communication in a Large Distributed Environment,1089
+"Experience with mean value analysis model for evaluating shared bus, throughput-oriented multiprocessors",1091
+Tradeoffs in instruction format design for horizontal architectures,1091
+"Instruction Issue Logic for High-Performance, Interruptible, Multiple Functional Unit, Pipelined Computers",1091
+An ACM response: the scope and directions of Computer Science,1043
+Efficient PRAM simulation on a distributed memory machine,1006
+Concurrent dynamic logic,1040
+A fast parallel algorithm for the maximal independent set problem,1038
+Multi-prover interactive proofs: how to remove intractability assumptions,1040
+A tradeoff between space and efficiency for routing tables,1032
+How to share memory in a distributed system,1038
+How to look at deductive databases,1005
+Mapping object-oriented concepts into relational concepts by meta-compilation in a logic programming environment,1004
+Mapping object-oriented concepts into relational concepts by meta-compilation in a logic programming environment,1005
+A new approach to the maximum-flow problem,1007
+A locally adaptive data compression scheme,1000
+Planar point location using persistent search trees,1001
+A global illumination solution for general reflectance distributions,1018
+Interactive simulation in a multi-person virtual world,1016
+Faster algorithms for the shortest path problem,1017
+Design for interactive performance in a virtual laboratory,1005
+On simultaneous inner and outer approximation of shapes,1025
+Towards image realism with interactive update rates in complex virtual building environments,1022
+Software Pivotal to Strategic Defense,1023
+Advanced Operating Systems,1028
+An ACM response: the scope and directions of Computer Science,1093
+The evolution of parallel processing,1028
+How to share memory in a distributed system,1038
+A tradeoff between space and efficiency for routing tables,1040
+Implicit representation of graphs,1076
+Non-interactive zero-knowledge and its applications,1043
+A fast parallel algorithm for the maximal independent set problem,1094
+Verification of interacting sequential circuits,1040
+Non-interactive zero-knowledge and its applications,1043
+Reduced offsets for two-level multi-valued logic minimization,1046
+Verification of interacting sequential circuits,1043
+Computer architecture issues in circuit simulation,1049
+An evaluation of tagging,1052
+Data replicas in distributed information services,1052
+A generalized birthday attack,1053
+The G+/GraphLog Visual Query System,1059
+Low complexity aggregation in GraphLog and Datalog,1057
+Answering queries on embedded-complete database schemes,1003
+On better heuristic for euclidean Steiner minimum trees (extended abstract),1063
+Asymptotically optimal PRAM emulation on faulty hypercubes (extended abstract),1056
+Completeness theorems for non-cryptographic fault-tolerant distributed computation,1068
+New paradigms for digital signatures and message authentication based on non-interactive zero knowledge proofs,1071
+Multi-prover interactive proofs: how to remove intractability assumptions,1056
+A technique for upper bounding the spectral norm with applications to learning,1071
+Multiparty protocols tolerating half faulty processors,1072
+Bit commitment using pseudo-randomness (extended abstract),1076
+Amortized communication complexity (Preliminary version),1076
+Randomized mutual exclusion algorithms revisited,1080
+"Efficient dispersal of information for security, load balancing, and fault tolerance",1080
+A polynomial algorithm for the min-cut linear arrangement of trees,1082
+A comment on “a fast parallel algorithm for thinning digital patterns,1086
+Andrew: a distributed personal computing environment,1089
+"Experience with mean value analysis model for evaluating shared bus, throughput-oriented multiprocessors",1091
+Tradeoffs in instruction format design for horizontal architectures,1091
+An ACM response: the scope and directions of Computer Science,1043
+Concurrent dynamic logic,1040
+Multi-prover interactive proofs: how to remove intractability assumptions,1040
+A tradeoff between space and efficiency for routing tables,1032
